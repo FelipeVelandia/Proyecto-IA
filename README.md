@@ -1,4 +1,4 @@
-# Clasificador de Tendencias Suicidas
+# Clasificador de Suicidios para Redes Sociales
 
 **Autores**:</br>
 Daniel Adrian Gonzalez Buendia, Andres Julian Garcia Rueda, Juan Felipe Velandia Naranjo
