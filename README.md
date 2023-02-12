@@ -1,5 +1,7 @@
 # Deteccion de Suicidios
 
+![Project Banner](BANNER.jpg)
+
 **Autores**:</br>
 Daniel Adrian Gonzalez Buendia, Andres Julian Garcia Rueda, Juan Felipe Velandia Naranjo
 
