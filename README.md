@@ -17,5 +17,5 @@ Las publicaciones fueron tomadas del 2008 hasta el 2021 atraves del uso de la AP
 GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVectorMachine, NeuralNetwork
 
 **Código**: https://colab.research.google.com/drive/19p2n8rOOp6vAgfnPygq9wnuFAX3Q5Hhv?usp=share_link</br>
-**Video**: [Archivo]https://drive.google.com/file/d/1iSLlo0OGusRiOKM4dE6csrVbebxCksAR/view?usp=sharing</br>
+**Video**: https://youtu.be/sthPgAHREcQ</br>
 **Repositorio**: https://github.com/FelipeVelandia/Proyecto-IA</br>
