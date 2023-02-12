@@ -18,4 +18,4 @@ GaussianNaiveBayes, DecisionTreeClassifier, RandomForestClassifier, SupportVecto
 
 **Código**:</br>
 **Video**:</br>
-**Repositorio**:</br>
+**Repositorio**: https://github.com/FelipeVelandia/Proyecto-IA</br>
