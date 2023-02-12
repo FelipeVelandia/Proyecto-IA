@@ -1,4 +1,4 @@
-# Clasificador de Suicidios para Redes Sociales
+# Deteccion de Suicidios
 
 **Autores**:</br>
 Daniel Adrian Gonzalez Buendia, Andres Julian Garcia Rueda, Juan Felipe Velandia Naranjo
